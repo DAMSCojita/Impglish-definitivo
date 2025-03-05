@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno\\source\\repos\\Impglish\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD04A72-BAF4-4318-9E4A-BCB837915461}|Impglish.csproj|c:\\users\\bruno\\source\\repos\\impglish\\formwriting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD04A72-BAF4-4318-9E4A-BCB837915461}|Impglish.csproj|solutionrelative:formwriting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD04A72-BAF4-4318-9E4A-BCB837915461}|Impglish.csproj|c:\\users\\bruno\\source\\repos\\impglish\\formwriting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FD04A72-BAF4-4318-9E4A-BCB837915461}|Impglish.csproj|solutionrelative:formwriting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD04A72-BAF4-4318-9E4A-BCB837915461}|Impglish.csproj|c:\\users\\bruno\\source\\repos\\impglish\\formreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD04A72-BAF4-4318-9E4A-BCB837915461}|Impglish.csproj|solutionrelative:formreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD04A72-BAF4-4318-9E4A-BCB837915461}|Impglish.csproj|c:\\users\\bruno\\source\\repos\\impglish\\formreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FD04A72-BAF4-4318-9E4A-BCB837915461}|Impglish.csproj|solutionrelative:formreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD04A72-BAF4-4318-9E4A-BCB837915461}|Impglish.csproj|c:\\users\\bruno\\source\\repos\\impglish\\formlistening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD04A72-BAF4-4318-9E4A-BCB837915461}|Impglish.csproj|solutionrelative:formlistening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD04A72-BAF4-4318-9E4A-BCB837915461}|Impglish.csproj|c:\\users\\bruno\\source\\repos\\impglish\\formlistening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FD04A72-BAF4-4318-9E4A-BCB837915461}|Impglish.csproj|solutionrelative:formlistening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormWriting.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\source\\repos\\Impglish\\FormWriting.cs",
+              "RelativeDocumentMoniker": "FormWriting.cs",
+              "ToolTip": "C:\\Users\\Bruno\\source\\repos\\Impglish\\FormWriting.cs",
+              "RelativeToolTip": "FormWriting.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwGYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:33:43.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormWriting.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Bruno\\source\\repos\\Impglish\\FormWriting.cs",
+              "RelativeDocumentMoniker": "FormWriting.cs",
+              "ToolTip": "C:\\Users\\Bruno\\source\\repos\\Impglish\\FormWriting.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormWriting.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:33:41.268Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormReading.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\source\\repos\\Impglish\\FormReading.cs",
+              "RelativeDocumentMoniker": "FormReading.cs",
+              "ToolTip": "C:\\Users\\Bruno\\source\\repos\\Impglish\\FormReading.cs",
+              "RelativeToolTip": "FormReading.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAD4v4AAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:32:46.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormReading.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Bruno\\source\\repos\\Impglish\\FormReading.cs",
+              "RelativeDocumentMoniker": "FormReading.cs",
+              "ToolTip": "C:\\Users\\Bruno\\source\\repos\\Impglish\\FormReading.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormReading.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:32:42.847Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormListening.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\source\\repos\\Impglish\\FormListening.cs",
+              "RelativeDocumentMoniker": "FormListening.cs",
+              "ToolTip": "C:\\Users\\Bruno\\source\\repos\\Impglish\\FormListening.cs",
+              "RelativeToolTip": "FormListening.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAIAwwB8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:29:02.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormListening.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Bruno\\source\\repos\\Impglish\\FormListening.cs",
+              "RelativeDocumentMoniker": "FormListening.cs",
+              "ToolTip": "C:\\Users\\Bruno\\source\\repos\\Impglish\\FormListening.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormListening.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:29:00.788Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
